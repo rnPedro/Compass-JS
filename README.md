@@ -48,6 +48,10 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 - [Node.js](https://nodejs.org/) (para executar JavaScript no servidor)
 - Um editor de código como [Visual Studio Code](https://code.visualstudio.com/)
 
+## Contato
+Email: pedronatalr@gmail.com
+Linkedin: Pedro Henrique Rossetto Natal
+
 ## Instalação
 
 Para clonar este repositório e instalar as dependências, execute os seguintes comandos:
@@ -56,3 +60,5 @@ Para clonar este repositório e instalar as dependências, execute os seguintes 
 git clone https://github.com/seu-usuario/js-for-beginners.git
 cd js-for-beginners
 npm install
+
+
