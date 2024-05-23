@@ -52,6 +52,11 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 Email: pedronatalr@gmail.com
 Linkedin: Pedro Henrique Rossetto Natal
 
+## licença
+Este projeto está licenciado sob a MIT License.
+
+
+
 ## Instalação
 
 Para clonar este repositório e instalar as dependências, execute os seguintes comandos:
