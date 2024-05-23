@@ -1,0 +1,8 @@
+Definições Básicas de Funções: Explicações sobre como definir funções usando declarações, expressões e funções de seta (arrow functions).
+Parâmetros e Argumentos: Mostra como definir parâmetros padrão, usar parâmetros rest e o operador spread.
+Escopo de Funções e Closures: Demonstra o escopo de funções e o conceito de closures.
+Conceitos Avançados de Funções: Inclui IIFE, funções de callback, funções de ordem superior e métodos de função (call, apply, bind).
+Funções Recursivas: Exemplo de uma função recursiva para calcular o fatorial.
+Funções Assíncronas: Mostra como trabalhar com Promises e async/await.
+Função como Objeto: Demonstra que funções são objetos de primeira classe em JavaScript.
+Exemplo Completo de Aplicação de Funções: Um exemplo completo de gerenciamento de lista de tarefas que combina muitos dos conceitos apresentados.
